@@ -1,0 +1,4 @@
+source=borsaistanbul hisse_endeks_ds.csv
+index=XU500
+count=500
+updated_utc=2026-04-06T03:31:53.540949+00:00

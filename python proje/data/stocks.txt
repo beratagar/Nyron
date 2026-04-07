@@ -1,0 +1,13 @@
+## Manuel hisse listesi (opsiyonel)
+#
+# Nyron, varsayılan olarak `data/bist500.txt` içindeki BIST 500 (XU500) evrenini kullanır.
+# Eğer yalnızca seçtiğiniz hisselerle tarama yapmak isterseniz, bu dosyaya her satıra bir sembol yazın.
+#
+# Kurallar:
+# - Her satıra 1 sembol yazın (örn: ASELS veya ASELS.IS)
+# - Boş satır ve `#` ile başlayan satırlar yok sayılır
+#
+# Örnek:
+# ASELS
+# THYAO
+# GARAN
